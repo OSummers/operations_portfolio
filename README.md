@@ -9,3 +9,4 @@ one of my achievements at Ocean Holidays, where I’ve taken ownership to improv
 
 > 2) Daily sales reporting and data entry to the sales teams across EMEA departments of 200+ internal stakeholders, overseeing E & B Stock list:
 
+![FAQ Finalised](https://user-images.githubusercontent.com/111752059/189680456-1b91b4a3-185f-42b6-bc4d-4d895aa42490.png)
