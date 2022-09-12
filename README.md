@@ -31,7 +31,10 @@ Able to manage own workload effectively. For example, at Fender, I’d provide w
 
 </details>
 
-> 3) **E-commerce and supply chain support**
+
+<details>
+  <summary>**E-commerce and supply chain support**</summary>
+> 3)
 
 Analysed data from supply chain and E-commerce
 
@@ -40,4 +43,11 @@ Analysed data from supply chain and E-commerce
 > Supporting E-commerce team
 > ![E-commerce product](https://user-images.githubusercontent.com/111752059/189702583-37abc5ab-490b-4813-bdfc-af9b7a5b87b7.png)
 
-#About Me
+</details>
+
+<details>
+  <summary>About Me</summary>
+
+A hard working person, with 4+ years experience in operations environment
+
+</details>
