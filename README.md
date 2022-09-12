@@ -1,2 +1,2 @@
-# operationsportfolio
+# operations portfolio
 Operations Portfolio
