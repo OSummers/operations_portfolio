@@ -3,7 +3,7 @@
 **PROJECTS AND ACHEIVEMENTS**
 
 <details>
-  <summary>1) **FAQ development to improve processes and efficiency at Ocean Holidays/Ocean Beds for 70+ global trade partners**
+  <summary>1) FAQ development to improve processes and efficiency at Ocean Holidays/Ocean Beds for 70+ global trade partners
 </summary>
 
 > 1)
@@ -18,7 +18,7 @@ one of my achievements at Ocean Holidays, where I’ve taken ownership to improv
 </details>
   
 <details>
-  <summary>2) **Daily sales reporting and data entry to the sales teams across EMEA departments of 200+ internal stakeholders, overseeing E & B Stock list:** </summary>
+  <summary>2) Daily sales reporting and data entry to the sales teams across EMEA departments of 200+ internal stakeholders, overseeing E & B Stock list </summary>
 
 > 2)
 
@@ -33,7 +33,8 @@ Able to manage own workload effectively. For example, at Fender, I’d provide w
 
 
 <details>
-  <summary>**E-commerce and supply chain support**</summary>
+  <summary>**3) E-commerce and supply chain support</summary>
+  
 > 3)
 
 Analysed data from supply chain and E-commerce
