@@ -15,6 +15,8 @@ one of my achievements at Ocean Holidays, where I’ve taken ownership to improv
 > <h11 align="center">Final version, as found on the official website</h11>
 > ![FAQ Finalised](https://user-images.githubusercontent.com/111752059/189680456-1b91b4a3-185f-42b6-bc4d-4d895aa42490.png)
 
+</details>
+  
 <details>
   <summary>2) **Daily sales reporting and data entry to the sales teams across EMEA departments of 200+ internal stakeholders, overseeing E & B Stock list:** </summary>
 
@@ -27,6 +29,7 @@ Able to manage own workload effectively. For example, at Fender, I’d provide w
 > Local stock for sales team in the UK and Ireland, creating daily reports that saw 14% increase in sales on a weekly basis
 > ![E Stock List](https://user-images.githubusercontent.com/111752059/189686626-f3d1594f-6c9a-45e0-83a3-8fbde878f56e.png)
 
+</details>
 
 > 3) **E-commerce and supply chain support**
 
@@ -36,3 +39,5 @@ Analysed data from supply chain and E-commerce
 > ![Open Order](https://user-images.githubusercontent.com/111752059/189697296-ff9f2c53-f19b-4bd7-b3b1-71eb54e80b82.png)
 > Supporting E-commerce team
 > ![E-commerce product](https://user-images.githubusercontent.com/111752059/189702583-37abc5ab-490b-4813-bdfc-af9b7a5b87b7.png)
+
+#About Me
