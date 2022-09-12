@@ -26,5 +26,7 @@ Able to manage own workload effectively. For example, at Fender, I’d provide w
 
 Analysed data from supply chain and E-commerce
 
+> Open order fill that's analysed to provide the logistics team to successfully manage 100,000+ products from the warehouse
 > ![Open Order](https://user-images.githubusercontent.com/111752059/189697296-ff9f2c53-f19b-4bd7-b3b1-71eb54e80b82.png)
-> 
+> Supporting E-commerce team
+> ![E-commerce product](https://user-images.githubusercontent.com/111752059/189702583-37abc5ab-490b-4813-bdfc-af9b7a5b87b7.png)
