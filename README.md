@@ -1,4 +1,4 @@
-# Project Overview <h1 align="center">Project Overview</h1>
+<h1 align="center">Project Overview</h1>
 
 **PROJECTS AND ACHEIVEMENTS**
 
