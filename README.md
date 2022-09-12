@@ -2,6 +2,9 @@
 
 **PROJECTS AND ACHEIVEMENTS**
 
+<details>
+  <summary>Click me</summary>
+
 > 1) **FAQ development to improve processes and efficiency at Ocean Holidays/Ocean Beds for 70+ global trade partners**
 
 one of my achievements at Ocean Holidays, where I’ve taken ownership to improve our processes as we were receiving queries from customers but due to privacy policy we could only communicate with trade partners for their booking. I would be responsible for collecting CRM data of 70+ international travel partners from our internal systems into an Excel format, to look at areas of improvement to build our FAQ page on our site. Through an analysis on CRM cases, I was able to successfully present the biggest customer queries to management using data maps to illustrate queries from different trade partners and build our FAQ page on our website, that resulted in an increase of overall efficiency as a business by 26% since 2020 - https://oceanbeds.com/Home/Faqs
