@@ -14,8 +14,10 @@ one of my achievements at Ocean Holidays, where I’ve taken ownership to improv
 
 > 2) **Daily sales reporting and data entry to the sales teams across EMEA departments of 200+ internal stakeholders, overseeing E & B Stock list:** 
 
-![B Stock List](https://user-images.githubusercontent.com/111752059/189683018-579f21d3-c0d3-4819-8927-8392ecf095d6.png)
-![E Stock List](https://user-images.githubusercontent.com/111752059/189686626-f3d1594f-6c9a-45e0-83a3-8fbde878f56e.png)
+> B stock list to boost revenue to global partners to 45+ countries across Europe, Middle East and Africa
+> ![B Stock List](https://user-images.githubusercontent.com/111752059/189683018-579f21d3-c0d3-4819-8927-8392ecf095d6.png)
+> Local stock for sales team in the UK and Ireland, creating daily reports that saw 14% increase in sales on a weekly basis
+> ![E Stock List](https://user-images.githubusercontent.com/111752059/189686626-f3d1594f-6c9a-45e0-83a3-8fbde878f56e.png)
 
 Able to manage own workload effectively. For example, at Fender, I’d provide weekly reports to commercial and operations teams across EMEA departments, such as open order fills and B stock lists of our products, resulting in meeting our 1,000+ weekly orders for dealers and direct consumers.
 
