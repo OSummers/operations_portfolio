@@ -1,3 +1,5 @@
+<h5 align="left">Oliver Summers (BMus, PGCE)</h5>
+
 <h1 align="center">Operations Portfolio :chart_with_upwards_trend:</h1>
 
 **PROJECTS AND ACHEIVEMENTS**
@@ -11,7 +13,7 @@ __________________________________________________
 <h4 align="center">Drafting of FAQ page on word/pdf, with feedback from management</h4>
   
 > ![FAQ Draft](https://user-images.githubusercontent.com/111752059/189680029-75a24cd4-e7ea-4eba-8501-2ff7d01fbf2a.png)
-  
+
 <h4 align="center">Final version, as found on the official website</h4>
   
 > ![FAQ Finalised](https://user-images.githubusercontent.com/111752059/189680456-1b91b4a3-185f-42b6-bc4d-4d895aa42490.png)
@@ -23,11 +25,11 @@ __________________________________________________
 
 *Able to manage own workload effectively. For example, at Fender, I’d provide weekly reports to commercial and operations teams across EMEA departments, such as open order fills and B stock lists of our products, resulting in meeting our 1,000+ weekly orders for dealers and direct consumers.*
 __________________________________________________
-B stock list to boost revenue to global partners to 45+ countries across Europe, Middle East and Africa
+<h4 align="center">B stock list to boost revenue to global partners to 45+ countries across Europe, Middle East and Africa</h4>
   
 > ![B Stock List](https://user-images.githubusercontent.com/111752059/189683018-579f21d3-c0d3-4819-8927-8392ecf095d6.png)
   
-Local stock for sales team in the UK and Ireland, creating daily reports that saw 14% increase in sales on a weekly basis
+<h4 align="center">Local stock for sales team in the UK and Ireland, creating daily reports that saw 14% increase in sales on a weekly basis</h4>
   
 > ![E Stock List](https://user-images.githubusercontent.com/111752059/189686626-f3d1594f-6c9a-45e0-83a3-8fbde878f56e.png)
 
@@ -51,6 +53,22 @@ __________________________________________________
 
 # <h1 align="center">**About Me (and what I can bring to your team)** :wave:</h1>
 
-A hard working person, with 4+ years experience in operations environment, I have undertaken many projects (as listed above, but not exhausted)
+Proactive operations specialist, with 4+ years experience in an operations environment, I have undertaken many projects (as listed above, but not exhausted)
 
 By having me part of your team, I can further develop processes while supprting a wide array of teams, having previously worked alongside Product, E-commerce
+
+Thank you for looking into my application. It would be great to support with your operations requirements, and I'd love to further discuss how my previous successes highlighted can support you in achieving your goals. Looking forward to hearing from you!
+
+Yours faithfully,
+
+
+Oliver Summers (BMus, PGCE)
+
+<details>
+  <summary>FURTHER ACHIEVEMENTS</summary>
+
+- Detail-oriented, at Ocean Holidays I’d critically check 200+ bookings weekly to ensure that data transmittals received from our partners matched what was booked in our internal systems, successfully leading to the team hitting our -2.00% error target.
+- As Senior Operations Analyst at MyTutor, I would be responsible for overseeing Zendesk, our CRM system used for contact with stakeholders. One of the challenges was highlighting what specific issues were deriving from customers and reported to the sales team, upon finding areas to improve, the action taken was to create new query categories in the backend system and collect specific data derived from our CRM database using data analysis techniques. I would then implement data analysis techniques to look at trends and queries from consumers to help achieve our conversion rate of 96%+ and report to the sales director (using SQL to break down large quantities of data) to demonstrate areas of improvement on the platform. This untimely resulted in being able to reduce customer query contact by 28% and focus on building on other aspects of the business.
+- Main support for account manager for our VIP products such as the prestigious Sandy Lane hotel, helped our trade partners secure bookings, seeing  a 51% increase in bookings, resulting in £30,000 increase in revenue
+- At MyTutor, I was the first team member to set up our product section for the B2C team, resulting in increase in accurate data for bug reports
+- Led creative workshops at MyTutor for 20+ staff and delivered to the whole team during business meetings to discuss B2C updates
