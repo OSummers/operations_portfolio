@@ -8,7 +8,7 @@
   <summary>1) FAQ development to improve processes and efficiency at Ocean Holidays/Ocean Beds for 70+ global trade partners
 </summary>
   
-*One of my achievements at Ocean Holidays, where I’ve taken ownership to improve our processes as we were receiving queries from customers but due to privacy policy we could only communicate with trade partners for their booking. I would be responsible for collecting CRM data of 70+ international travel partners from our internal systems into an Excel format, to look at areas of improvement to build our FAQ page on our site. Through an analysis on CRM cases, I was able to successfully present the biggest customer queries to management using data maps to illustrate queries from different trade partners and build our FAQ page on our website, that resulted in an increase of overall efficiency as a business by 26% since 2020 - https://oceanbeds.com/Home/Faqs*
+* One of my achievements at Ocean Holidays, where I’ve taken ownership to improve our processes as we were receiving queries from customers but due to privacy policy we could only communicate with trade partners for their booking. I would be responsible for collecting CRM data of 70+ international travel partners from our internal systems into an Excel format, to look at areas of improvement to build our FAQ page on our site. Through an analysis on CRM cases, I was able to successfully present the biggest customer queries to management using data maps to illustrate queries from different trade partners and build our FAQ page on our website, that resulted in an increase of overall efficiency as a business by 26% since 2020 - https://oceanbeds.com/Home/Faqs *
 __________________________________________________
 <h4 align="center">Drafting of FAQ page on word/pdf, with feedback from management</h4>
   
@@ -53,7 +53,7 @@ __________________________________________________
 
 </details>
 
-# <h2 align="center">**About Me (and what I can bring to your team)** :wave:</h2>
+# < h2 align="center">**About Me (and what I can bring to your team)** :wave:</h2 >
 
 Proactive operations specialist, with 4+ years experience in an operations environment, I have undertaken many projects (as listed in this portfolio but not exhaustive) that's resulted in seeing continued support across businesses, for example, one of many results was seeing a growth rate of 30% over the past five years, surpassing £60 million revenue for the business at Ocean Holidays.
 
