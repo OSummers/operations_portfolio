@@ -40,6 +40,8 @@ __________________________________________________
   <summary>3) E-commerce and supply chain support</summary>
 
 *Analysed data from supply chain and E-commerce. Able to manage own workload effectively. For example, at Fender, I’d provide weekly reports to commercial and operations teams across EMEA departments, such as open order fills and B stock lists of our products, resulting in meeting our 1,000+ weekly orders for dealers and direct consumers.*
+
+*Highly efficient in using Google Suite/Microsoft Office. At Fender, I use Excel to deliver reports to help track and process products, using VLOOKUP, COUNTIF, and Pivot Table Analysis to retrieve results from our internal system to help plan with order forecasts.*
 __________________________________________________
 <h4 align="center"> Open order fill that's analysed to provide the logistics team to successfully manage 100,000+ products from the warehouse </h4>
   
@@ -51,24 +53,32 @@ __________________________________________________
 
 </details>
 
-# <h1 align="center">**About Me (and what I can bring to your team)** :wave:</h1>
+# <h2 align="center">**About Me (and what I can bring to your team)** :wave:</h2>
 
-Proactive operations specialist, with 4+ years experience in an operations environment, I have undertaken many projects (as listed above, but not exhausted)
+Proactive operations specialist, with 4+ years experience in an operations environment, I have undertaken many projects (as listed in this portfolio but not exhaustive) that's resulted in seeing continued support across businesses, for example, one of many results was seeing a growth rate of 30% over the past five years, surpassing £60 million revenue for the business at Ocean Holidays.
 
-By having me part of your team, I can further develop processes while supprting a wide array of teams, having previously worked alongside Product, E-commerce
+By introducing me to be a part of your team, I can further develop processes while supporting a wide array of teams on an international level, having previously worked alongside Product, E-commerce, Finance, Sales, Marketing, Supply Chain & Logistics, and many more.
 
-Thank you for looking into my application. It would be great to support with your operations requirements, and I'd love to further discuss how my previous successes highlighted can support you in achieving your goals. Looking forward to hearing from you!
+To highlight some feedback from colleagues, my general manager at MyTutor has described me as *"Process-driven"*, along with my manager at Ocean Holidays praising my communications skills across different teams, stating that,
 
-Yours faithfully,
+> *"You are smashing it, some really good calls, you have clearly picked up lots of product knowledge and trying to answer the agents call without letting them go.”*
+
+Thank you for looking into my application. It would be great to support you with your operations requirements, and I'd love to further discuss how my previous successes highlighted here can support you in achieving your business goals. You can find contact details on my CV and looking forward to hearing from you!
+
 
 
 Oliver Summers (BMus, PGCE)
 
-<details>
-  <summary>FURTHER ACHIEVEMENTS</summary>
+___________
 
-- Detail-oriented, at Ocean Holidays I’d critically check 200+ bookings weekly to ensure that data transmittals received from our partners matched what was booked in our internal systems, successfully leading to the team hitting our -2.00% error target.
-- As Senior Operations Analyst at MyTutor, I would be responsible for overseeing Zendesk, our CRM system used for contact with stakeholders. One of the challenges was highlighting what specific issues were deriving from customers and reported to the sales team, upon finding areas to improve, the action taken was to create new query categories in the backend system and collect specific data derived from our CRM database using data analysis techniques. I would then implement data analysis techniques to look at trends and queries from consumers to help achieve our conversion rate of 96%+ and report to the sales director (using SQL to break down large quantities of data) to demonstrate areas of improvement on the platform. This untimely resulted in being able to reduce customer query contact by 28% and focus on building on other aspects of the business.
-- Main support for account manager for our VIP products such as the prestigious Sandy Lane hotel, helped our trade partners secure bookings, seeing  a 51% increase in bookings, resulting in £30,000 increase in revenue
-- At MyTutor, I was the first team member to set up our product section for the B2C team, resulting in increase in accurate data for bug reports
-- Led creative workshops at MyTutor for 20+ staff and delivered to the whole team during business meetings to discuss B2C updates
+**FURTHER ACHIEVEMENTS**
+
+<details>
+  <summary>Drop Down List: </summary> 
+
+- *Detail-oriented, at Ocean Holidays I’d critically check 200+ bookings weekly to ensure that data transmittals received from our partners matched what was booked in our internal systems, successfully leading to the team hitting our -2.00% error target.*
+- *At MyTutor, I'd implement data analysis techniques to look at trends and queries from consumers to demonstrate areas of improvement on the platform. This resulted in being able to reduce customer query contact by 28% and focus on building on other aspects of the business.*
+- *Main support for account manager for our VIP products such as the prestigious Sandy Lane hotel, helped our 20+ VIP trade partners secure bookings, seeing  a 51% increase in bookings, resulting in £30,000 increase in revenue.*
+- *I was the first team member to set up our product section for the B2C team at MyTutor, resulting in an overall 60% increase in accurate data for bug reports into JIRA.*
+- *Led creative workshops at MyTutor for 20+ staff, delivering to the team to educate B2C strategies.*
+- *Trained and qualified in GDPR practises with 90%+ overall rating, highlighting key elements to protect private stakeholder data.*
