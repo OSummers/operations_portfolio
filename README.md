@@ -39,7 +39,7 @@ __________________________________________________
 <details>
   <summary>3) E-commerce and supply chain reporting, highlighting any potential issues across 200,000+ products on a global scale</summary>
 
-*Analysed data from supply chain and E-commerce. Able to manage own workload effectively. For example, at Fender, I’d provide weekly reports to commercial and operations teams across EMEA departments, such as open order fills and B stock lists of our products, resulting in meeting our 1,000+ weekly orders for dealers and direct consumers.*
+*Analysed data from supply chain and E-commerce teams, successfully delivering tasks in a timely manner and to a high standard. Able to manage own workload effectively. For example, at Fender, I’d provide weekly reports to commercial and operations teams across EMEA departments, such as open order fills and B stock lists of our products, resulting in meeting our 1,000+ weekly orders for dealers and direct consumers.*
 
 *Highly efficient in using Google Suite/Microsoft Office. At Fender, I use Excel to deliver reports to help track and process products, using VLOOKUP, COUNTIF, and Pivot Table Analysis to retrieve results from our internal system to help plan with order forecasts.*
 __________________________________________________
