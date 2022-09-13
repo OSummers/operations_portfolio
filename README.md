@@ -27,7 +27,7 @@ __________________________________________________
 __________________________________________________
 <h4 align="center">B stock list to boost revenue to global partners to 45+ countries across Europe, Middle East and Africa</h4>
   
-> ! [B Stock List](https://user-images.githubusercontent.com/111752059/189683018-579f21d3-c0d3-4819-8927-8392ecf095d6.png)
+> ![B Stock List](https://user-images.githubusercontent.com/111752059/189683018-579f21d3-c0d3-4819-8927-8392ecf095d6.png)
   
 <h4 align="center">Local stock for sales team in the UK and Ireland, creating daily reports that saw 14% increase in sales on a weekly basis</h4>
   
