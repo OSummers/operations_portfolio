@@ -1,6 +1,6 @@
 <h5 align="left">Oliver Summers (BMus, PGCE)</h5>
 
-<h1 align="center">Operations Portfolio :chart_with_upwards_trend:</h1>
+<h1 align="center">Operations Portfolio</h1>
 
 **PROJECTS AND ACHEIVEMENTS**
 
@@ -53,7 +53,7 @@ __________________________________________________
 
 </details>
 
-# <h2 align="center">**About Me (and what I can bring to your team)** :wave:</h2>
+# <h2 align="center">**About Me (and what I can bring to your team)**</h2>
 
 Proactive operations specialist, with 4+ years experience in an operations environment, I have undertaken many projects (as listed in this portfolio but not exhaustive) that's resulted in seeing continued support across businesses, for example, one of many results was seeing a growth rate of 30% over the past five years, surpassing £60 million revenue for the business at Ocean Holidays.
 
