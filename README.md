@@ -55,7 +55,7 @@ __________________________________________________
 
 </details>
 
-# <h2 align="center">About Me (and what I can bring to your team)</h2>
+<h2 align="center">About Me (and what I can bring to your team)</h2>
 
 Proactive operations specialist, with 4+ years experience in an operations environment, I have undertaken many projects (as listed in this portfolio but not exhaustive) that's resulted in seeing continued support across businesses, for example, one of many results was seeing a growth rate of 30% over the past five years, surpassing £60 million revenue for the business at Ocean Holidays.
 
@@ -67,6 +67,10 @@ To highlight some feedback from colleagues, my general manager at MyTutor has de
 
 Thank you for looking into my application. It would be great to support you with your operations requirements, and I'd love to further discuss how my previous successes highlighted here can support you in achieving your business goals. You can find contact details on my CV and looking forward to hearing from you!
 
+- test
+- test
+- test
+- test
 
 
 Oliver Summers (BMus, PGCE)
@@ -79,8 +83,8 @@ ___________
   <summary>Drop Down List: </summary> 
 
 - Detail-oriented, at Ocean Holidays I’d critically check 200+ bookings weekly to ensure that data transmittals received from our partners matched what was booked in our internal systems, successfully leading to the team hitting our -2.00% error target.
-- *At MyTutor, I'd implement data analysis techniques to look at trends and queries from consumers to demonstrate areas of improvement on the platform. This resulted in being able to reduce customer query contact by 28% and focus on building on other aspects of the business.*
-- *Main support for account manager for our VIP products such as the prestigious Sandy Lane hotel, helped our 20+ VIP trade partners secure bookings, seeing  a 51% increase in bookings, resulting in £30,000 increase in revenue.*
-- *I was the first team member to set up our product section for the B2C team at MyTutor, resulting in an overall 60% increase in accurate data for bug reports into JIRA.*
-- *Led creative workshops at MyTutor for 20+ staff, delivering to the team to educate B2C strategies.*
-- *Trained and qualified in GDPR practises with 90%+ overall rating, highlighting key elements to protect private stakeholder data.*
+- At MyTutor, I'd implement data analysis techniques to look at trends and queries from consumers to demonstrate areas of improvement on the platform. This resulted in being able to reduce customer query contact by 28% and focus on building on other aspects of the business.
+- Main support for account manager for our VIP products such as the prestigious Sandy Lane hotel, helped our 20+ VIP trade partners secure bookings, seeing  a 51% increase in bookings, resulting in £30,000 increase in revenue.
+- I was the first team member to set up our product section for the B2C team at MyTutor, resulting in an overall 60% increase in accurate data for bug reports into JIRA.
+- Led creative workshops at MyTutor for 20+ staff, delivering to the team to educate B2C strategies.
+- Trained and qualified in GDPR practises with 90%+ overall rating, highlighting key elements to protect private stakeholder data.
