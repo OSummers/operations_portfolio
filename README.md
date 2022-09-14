@@ -4,20 +4,21 @@
 
 **PROJECTS AND ACHEIVEMENTS**
 
-*test test italics test test*
-
 <details>
   <summary>1) FAQ development to improve processes and efficiency at Ocean Holidays/Ocean Beds for 70+ global trade partners
 </summary>
 
+*test test italics test test*
+  
 *One of my achievements at Ocean Holidays, where I’ve taken ownership to improve our processes as we were receiving queries from customers but due to privacy policy we could only communicate with trade partners for their booking. I would be responsible for collecting CRM data of 70+ international travel partners from our internal systems into an Excel format, to look at areas of improvement to build our FAQ page on our site. Through an analysis on CRM cases, I was able to successfully present the biggest customer queries to management using data maps to illustrate queries from different trade partners and build our FAQ page on our website, that resulted in an increase of overall efficiency as a business by 26% since 2020 - https://oceanbeds.com/Home/Faqs*
+
 __________________________________________________
 <h4 align="center">Drafting of FAQ page on word/pdf, with feedback from management</h4>
   
 > ![FAQ Draft](https://user-images.githubusercontent.com/111752059/189680029-75a24cd4-e7ea-4eba-8501-2ff7d01fbf2a.png)
 
 <h4 align="center">Final version, as found on the official website</h4>
-  
+
 > ![FAQ Finalised](https://user-images.githubusercontent.com/111752059/189680456-1b91b4a3-185f-42b6-bc4d-4d895aa42490.png)
 
 </details>
@@ -36,7 +37,6 @@ __________________________________________________
 > ![E Stock List](https://user-images.githubusercontent.com/111752059/189686626-f3d1594f-6c9a-45e0-83a3-8fbde878f56e.png)
 
 </details>
-
 
 <details>
   <summary>3) E-commerce and supply chain reporting, highlighting any potential issues across 200,000+ products on a global scale</summary>
