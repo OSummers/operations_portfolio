@@ -1,5 +1,5 @@
 <h5 align="left">Oliver Summers (BMus, PGCE)</h5>
-test 85646
+
 <h1 align="center">Operations Portfolio</h1>
 
 **PROJECTS AND ACHEIVEMENTS**
@@ -9,7 +9,7 @@ test 85646
 </summary>
 <br>
 
-*One of my achievements at Ocean Holidays, where I’ve taken ownership to improve our processes as we were receiving queries from customers but due to privacy policy we could only communicate with trade partners for their booking. I would be responsible for collecting CRM data of 70+ international travel partners from our internal systems into an Excel format, to look at areas of improvement to build our FAQ page on our site. Through an analysis on CRM cases, I was able to successfully present the biggest customer queries to management using data maps to illustrate queries from different trade partners and build our FAQ page on our website, that resulted in an increase of overall efficiency as a business by 26% since 2020 - https://oceanbeds.com/Home/Faqs*
+One of my achievements at Ocean Holidays, where I’ve taken ownership to improve our processes as we were receiving queries from customers but due to privacy policy we could only communicate with trade partners for their booking. I would be responsible for collecting CRM data of 70+ international travel partners from our internal systems into an Excel format, to look at areas of improvement to build our FAQ page on our site. Through an analysis on CRM cases, I was able to successfully present the biggest customer queries to management using data maps to illustrate queries from different trade partners and build our FAQ page on our website, that resulted in an increase of overall efficiency as a business by 26% since 2020 - https://oceanbeds.com/Home/Faqs
 
 __________________________________________________
 <h4 align="center">Drafting of FAQ page on word/pdf, with feedback from management</h4>
@@ -22,7 +22,7 @@ __________________________________________________
 
 </details>
 
-<details>
+<details markdown="1">
   <summary>2) Daily sales reporting and data entry to the sales teams across EMEA departments of 200+ internal stakeholders, overseeing E & B Stock list </summary>
 <br>
 
@@ -38,7 +38,7 @@ __________________________________________________
 
 </details>
 
-<details>
+<details markdown ="1">
   <summary>3) E-commerce and supply chain reporting, highlighting any potential issues across 200,000+ products on a global scale</summary>
 <br>
 
@@ -67,13 +67,16 @@ To highlight some feedback from colleagues, my general manager at MyTutor has de
 
 > *"You are smashing it, some really good calls, you have clearly picked up lots of product knowledge and trying to answer the agents call without letting them go.”*
 
-Thank you for looking into my application. It would be great to support you with your operations requirements, and I'd love to further discuss how my previous successes highlighted here can support you in achieving your business goals. You can find contact details on my CV and looking forward to hearing from you!
+Thank you so much for looking into my application further. It would be great to support you with your operations requirements, and I'd love to further discuss how my previous successes highlighted here can support you in achieving your business goals. You can find contact details on my CV and looking forward to hearing from you!
 
 Oliver Summers (BMus, PGCE)
 
 ___________
 
 **FURTHER ACHIEVEMENTS**
+
+<details markdown="1">
+<summary>Drop down list:</summary>
 <br>
 
 - Detail-oriented, at Ocean Holidays I’d critically check 200+ bookings weekly to ensure that data transmittals received from our partners matched what was booked in our internal systems, successfully leading to the team **hitting our -2.00% error target.**
@@ -83,10 +86,4 @@ ___________
 - Led creative workshops at MyTutor **for 20+ staff**, delivering to the team to educate B2C strategies.
 - Trained and qualified in GDPR practises **with 90%+ overall rating**, highlighting key elements to protect private stakeholder data.
 
-
-![E Stock List](https://user-images.githubusercontent.com/111752059/190139666-62bbb318-b3b9-4602-b55e-6cd5cd4e0066.png)
-![FAQ Draft](https://user-images.githubusercontent.com/111752059/190139680-d171ab7c-55a8-4d7e-9f5f-b4960865b47e.png)
-![FAQ Finalised](https://user-images.githubusercontent.com/111752059/190139688-e950c870-f1da-439e-8cbf-c93f099e09a9.png)
-![B Stock List](https://user-images.githubusercontent.com/111752059/190139704-b4ba5f24-4152-456b-8268-1a1bb55e255f.png)
-![E-commerce product](https://user-images.githubusercontent.com/111752059/190139710-81b309ae-4770-43e5-9cfa-7b572fc56499.png)
-![Open Order](https://user-images.githubusercontent.com/111752059/190139717-5d5a2afd-91cf-4563-bbac-52499b4a2298.png)
+</details>
