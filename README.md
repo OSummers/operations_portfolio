@@ -1,5 +1,5 @@
 <h5 align="left">Oliver Summers (BMus, PGCE)</h5>
-test 4578
+test 85646
 <h1 align="center">Operations Portfolio</h1>
 
 **PROJECTS AND ACHEIVEMENTS**
@@ -73,16 +73,11 @@ Oliver Summers (BMus, PGCE)
 ___________
 
 **FURTHER ACHIEVEMENTS**
-
-<details>
-  <summary>Drop Down List: </summary> 
 <br>
 
-- Detail-oriented, at Ocean Holidays I’d critically check 200+ bookings weekly to ensure that data transmittals received from our partners matched what was booked in our internal systems, successfully leading to the team hitting our -2.00% error target.
-- At MyTutor, I'd implement data analysis techniques to look at trends and queries from consumers to demonstrate areas of improvement on the platform. This resulted in being able to reduce customer query contact by 28% and focus on building on other aspects of the business.
-- Main support for account manager for our VIP products such as the prestigious Sandy Lane hotel, helped our 20+ VIP trade partners secure bookings, seeing  a 51% increase in bookings, resulting in £30,000 increase in revenue.
-- I was the first team member to set up our product section for the B2C team at MyTutor, resulting in an overall 60% increase in accurate data for bug reports into JIRA.
-- Led creative workshops at MyTutor for 20+ staff, delivering to the team to educate B2C strategies.
-- Trained and qualified in GDPR practises with 90%+ overall rating, highlighting key elements to protect private stakeholder data.
-
-</details>
+- Detail-oriented, at Ocean Holidays I’d critically check 200+ bookings weekly to ensure that data transmittals received from our partners matched what was booked in our internal systems, successfully leading to the team **hitting our -2.00% error target.**
+- At MyTutor, I'd implement data analysis techniques to look at trends and queries from consumers to demonstrate areas of improvement on the platform. This resulted in being able to **reduce customer query contact by 28%** and focus on building on other aspects of the business.
+- Main support for account manager for our VIP products such as the prestigious Sandy Lane hotel, helped our 20+ VIP trade partners secure bookings, seeing  a 51% increase in bookings, **resulting in £30,000 increase in net revenue**.
+- I was the first team member to set up our product section for the B2C team at MyTutor, **resulting in an overall 60% increase** in accurate data for bug reports into JIRA.
+- Led creative workshops at MyTutor **for 20+ staff**, delivering to the team to educate B2C strategies.
+- Trained and qualified in GDPR practises **with 90%+ overall rating**, highlighting key elements to protect private stakeholder data.
