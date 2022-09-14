@@ -59,6 +59,7 @@ __________________________________________________
 
 </details>
 
+__________________________________________________
 <h2 align="center">About Me (and what I can bring to your team)</h2>
 
 Proactive operations specialist, with 4+ years experience in an operations environment, I have undertaken many projects (as listed in this portfolio but not exhaustive) that's resulted in seeing continued support across businesses, for example, one of many results was seeing a growth rate of 30% over the past five years, surpassing £60 million revenue for the business at Ocean Holidays.
@@ -70,8 +71,6 @@ To highlight positive feedback from colleagues, my general manager at MyTutor ha
 > *"You are smashing it, some really good calls, you have clearly picked up lots of product knowledge and trying to answer the agents call without letting them go.”*
 
 Thank you so much for looking into my application further. It would be great to support you with your operations requirements, and I'd love to further discuss how my previous successes highlighted here can support you in achieving your business goals. You can find contact details on my CV and looking forward to hearing from you!
-
-Oliver Summers (BMus, PGCE)
 
 ___________
 
