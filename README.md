@@ -4,6 +4,8 @@
 
 **PROJECTS AND ACHEIVEMENTS**
 
+*test test italics test test*
+
 <details>
   <summary>1) FAQ development to improve processes and efficiency at Ocean Holidays/Ocean Beds for 70+ global trade partners
 </summary>
@@ -53,7 +55,7 @@ __________________________________________________
 
 </details>
 
-# <h2 align="center">**About Me (and what I can bring to your team)**</h2>
+# <h2 align="center">About Me (and what I can bring to your team)</h2>
 
 Proactive operations specialist, with 4+ years experience in an operations environment, I have undertaken many projects (as listed in this portfolio but not exhaustive) that's resulted in seeing continued support across businesses, for example, one of many results was seeing a growth rate of 30% over the past five years, surpassing £60 million revenue for the business at Ocean Holidays.
 
@@ -76,7 +78,7 @@ ___________
 <details>
   <summary>Drop Down List: </summary> 
 
-- *Detail-oriented, at Ocean Holidays I’d critically check 200+ bookings weekly to ensure that data transmittals received from our partners matched what was booked in our internal systems, successfully leading to the team hitting our -2.00% error target.*
+- Detail-oriented, at Ocean Holidays I’d critically check 200+ bookings weekly to ensure that data transmittals received from our partners matched what was booked in our internal systems, successfully leading to the team hitting our -2.00% error target.
 - *At MyTutor, I'd implement data analysis techniques to look at trends and queries from consumers to demonstrate areas of improvement on the platform. This resulted in being able to reduce customer query contact by 28% and focus on building on other aspects of the business.*
 - *Main support for account manager for our VIP products such as the prestigious Sandy Lane hotel, helped our 20+ VIP trade partners secure bookings, seeing  a 51% increase in bookings, resulting in £30,000 increase in revenue.*
 - *I was the first team member to set up our product section for the B2C team at MyTutor, resulting in an overall 60% increase in accurate data for bug reports into JIRA.*
