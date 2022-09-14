@@ -7,22 +7,24 @@
 <details>
   <summary>1) FAQ development to improve processes and efficiency at Ocean Holidays/Ocean Beds for 70+ global trade partners
 </summary>
+<br>
 
-> *One of my achievements at Ocean Holidays, where I’ve taken ownership to improve our processes as we were receiving queries from customers but due to privacy policy we could only communicate with trade partners for their booking. I would be responsible for collecting CRM data of 70+ international travel partners from our internal systems into an Excel format, to look at areas of improvement to build our FAQ page on our site. Through an analysis on CRM cases, I was able to successfully present the biggest customer queries to management using data maps to illustrate queries from different trade partners and build our FAQ page on our website, that resulted in an increase of overall efficiency as a business by 26% since 2020 - https://oceanbeds.com/Home/Faqs*
+*One of my achievements at Ocean Holidays, where I’ve taken ownership to improve our processes as we were receiving queries from customers but due to privacy policy we could only communicate with trade partners for their booking. I would be responsible for collecting CRM data of 70+ international travel partners from our internal systems into an Excel format, to look at areas of improvement to build our FAQ page on our site. Through an analysis on CRM cases, I was able to successfully present the biggest customer queries to management using data maps to illustrate queries from different trade partners and build our FAQ page on our website, that resulted in an increase of overall efficiency as a business by 26% since 2020 - https://oceanbeds.com/Home/Faqs*
 
 __________________________________________________
 <h4 align="center">Drafting of FAQ page on word/pdf, with feedback from management</h4>
 
-> ![FAQ Draft](https://user-images.githubusercontent.com/111752059/189680029-75a24cd4-e7ea-4eba-8501-2ff7d01fbf2a.png)
+>
 
 <h4 align="center">Final version, as found on the official website</h4>
 
-> ![](https://osummers.github.io/operations_portfolio/FAQ Draft.png)
+> 
 
 </details>
 
 <details>
   <summary>2) Daily sales reporting and data entry to the sales teams across EMEA departments of 200+ internal stakeholders, overseeing E & B Stock list </summary>
+<br>
 
 *Able to manage own workload effectively. For example, at Fender, I’d provide weekly reports to commercial and operations teams across EMEA departments, such as open order fills and B stock lists of our products, resulting in meeting our 1,000+ weekly orders for dealers and direct consumers.*
 __________________________________________________
@@ -38,6 +40,7 @@ __________________________________________________
 
 <details>
   <summary>3) E-commerce and supply chain reporting, highlighting any potential issues across 200,000+ products on a global scale</summary>
+<br>
 
 *Analysed data from supply chain and E-commerce teams, successfully delivering tasks in a timely manner and to a high standard. Able to manage own workload effectively. For example, at Fender, I’d provide weekly reports to commercial and operations teams across EMEA departments, such as open order fills and B stock lists of our products, resulting in meeting our 1,000+ weekly orders for dealers and direct consumers.*
 
@@ -65,17 +68,6 @@ To highlight some feedback from colleagues, my general manager at MyTutor has de
 
 Thank you for looking into my application. It would be great to support you with your operations requirements, and I'd love to further discuss how my previous successes highlighted here can support you in achieving your business goals. You can find contact details on my CV and looking forward to hearing from you!
 
-<details>
-  <summary>test:</summary> 
-
-- test
-- test
-- test
-- test
-
-</details>
-
-
 Oliver Summers (BMus, PGCE)
 
 ___________
@@ -84,10 +76,12 @@ ___________
 
 <details>
   <summary>Drop Down List: </summary> 
-
+<br>
 - Detail-oriented, at Ocean Holidays I’d critically check 200+ bookings weekly to ensure that data transmittals received from our partners matched what was booked in our internal systems, successfully leading to the team hitting our -2.00% error target.
 - At MyTutor, I'd implement data analysis techniques to look at trends and queries from consumers to demonstrate areas of improvement on the platform. This resulted in being able to reduce customer query contact by 28% and focus on building on other aspects of the business.
 - Main support for account manager for our VIP products such as the prestigious Sandy Lane hotel, helped our 20+ VIP trade partners secure bookings, seeing  a 51% increase in bookings, resulting in £30,000 increase in revenue.
 - I was the first team member to set up our product section for the B2C team at MyTutor, resulting in an overall 60% increase in accurate data for bug reports into JIRA.
 - Led creative workshops at MyTutor for 20+ staff, delivering to the team to educate B2C strategies.
 - Trained and qualified in GDPR practises with 90%+ overall rating, highlighting key elements to protect private stakeholder data.
+
+</details>
