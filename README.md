@@ -65,7 +65,7 @@ Proactive operations specialist, with 4+ years experience in an operations envir
 
 By introducing me to be a part of your team, I can further develop processes while supporting a wide array of teams on an international level, having previously worked alongside Product, E-commerce, Finance, Sales, Marketing, Supply Chain & Logistics, and many more.
 
-To highlight some feedback from colleagues, my general manager at MyTutor has described me as *"Process-driven"*, along with my manager at Ocean Holidays praising my communications skills across different teams, stating that,
+To highlight positive feedback from colleagues, my general manager at MyTutor has described me as *"Process-driven"*, along with my manager at Ocean Holidays praising my communications skills across different teams, stating that,
 
 > *"You are smashing it, some really good calls, you have clearly picked up lots of product knowledge and trying to answer the agents call without letting them go.”*
 
