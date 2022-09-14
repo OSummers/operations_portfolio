@@ -9,7 +9,7 @@ test 85646
 </summary>
 <br>
 
-*One of my achievements at Ocean Holidays, where I’ve taken ownership to improve our processes as we were receiving queries from customers but due to privacy policy we could only communicate with trade partners for their booking. I would be responsible for collecting CRM data of 70+ international travel partners from our internal systems into an Excel format, to look at areas of improvement to build our FAQ page on our site. Through an analysis on CRM cases, I was able to successfully present the biggest customer queries to management using data maps to illustrate queries from different trade partners and build our FAQ page on our website, that resulted in an increase of overall efficiency as a business by 26% since 2020 - https://oceanbeds.com/Home/Faqs*
+One of my achievements at Ocean Holidays, where I’ve taken ownership to improve our processes as we were receiving queries from customers but due to privacy policy we could only communicate with trade partners for their booking. I would be responsible for collecting CRM data of 70+ international travel partners from our internal systems into an Excel format, to look at areas of improvement to build our FAQ page on our site. Through an analysis on CRM cases, I was able to successfully present the biggest customer queries to management using data maps to illustrate queries from different trade partners and build our FAQ page on our website, that resulted in an increase of overall efficiency as a business by 26% since 2020 - https://oceanbeds.com/Home/Faqs
 
 __________________________________________________
 <h4 align="center">Drafting of FAQ page on word/pdf, with feedback from management</h4>
@@ -26,7 +26,7 @@ __________________________________________________
   <summary>2) Daily sales reporting and data entry to the sales teams across EMEA departments of 200+ internal stakeholders, overseeing E & B Stock list </summary>
 <br>
 
-*Able to manage own workload effectively. For example, at Fender, I’d provide weekly reports to commercial and operations teams across EMEA departments, such as open order fills and B stock lists of our products, resulting in meeting our 1,000+ weekly orders for dealers and direct consumers.*
+Able to manage own workload effectively. For example, at Fender, I’d provide weekly reports to commercial and operations teams across EMEA departments, such as open order fills and B stock lists of our products, resulting in meeting our 1,000+ weekly orders for dealers and direct consumers.
 __________________________________________________
 <h4 align="center">B stock list to boost revenue to global partners to 45+ countries across Europe, Middle East and Africa</h4>
   
@@ -42,9 +42,9 @@ __________________________________________________
   <summary>3) E-commerce and supply chain reporting, highlighting any potential issues across 200,000+ products on a global scale</summary>
 <br>
 
-*Analysed data from supply chain and E-commerce teams, successfully delivering tasks in a timely manner and to a high standard. Able to manage own workload effectively. For example, at Fender, I’d provide weekly reports to commercial and operations teams across EMEA departments, such as open order fills and B stock lists of our products, resulting in meeting our 1,000+ weekly orders for dealers and direct consumers.*
+Analysed data from supply chain and E-commerce teams, successfully delivering tasks in a timely manner and to a high standard. Able to manage own workload effectively. For example, at Fender, I’d provide weekly reports to commercial and operations teams across EMEA departments, such as open order fills and B stock lists of our products, resulting in meeting our 1,000+ weekly orders for dealers and direct consumers.
 
-*Highly efficient in using Google Suite/Microsoft Office. At Fender, I use Excel to deliver reports to help track and process products, using VLOOKUP, COUNTIF, and Pivot Table Analysis to retrieve results from our internal system to help plan with order forecasts.*
+Highly efficient in using Google Suite/Microsoft Office. At Fender, I use Excel to deliver reports to help track and process products, using VLOOKUP, COUNTIF, and Pivot Table Analysis to retrieve results from our internal system to help plan with order forecasts.
 __________________________________________________
 <h4 align="center"> Open order fill that's analysed to provide the logistics team to successfully manage 100,000+ products from the warehouse </h4>
   
