@@ -14,11 +14,11 @@
 __________________________________________________
 <h4 align="center">Drafting of FAQ page on word/pdf, with feedback from management</h4>
 
->
+> ![FAQ Draft](https://user-images.githubusercontent.com/111752059/190121640-00a76890-db20-4716-a71c-14bc4f0bdb1c.png)
 
 <h4 align="center">Final version, as found on the official website</h4>
 
-> 
+> ![FAQ Finalised](https://user-images.githubusercontent.com/111752059/190121610-5d3e3003-bd95-4e99-a3e2-5c506be3ece4.png)
 
 </details>
 
@@ -30,11 +30,11 @@ __________________________________________________
 __________________________________________________
 <h4 align="center">B stock list to boost revenue to global partners to 45+ countries across Europe, Middle East and Africa</h4>
   
-> ![B Stock List](https://user-images.githubusercontent.com/111752059/189683018-579f21d3-c0d3-4819-8927-8392ecf095d6.png)
+> ![B Stock List](https://user-images.githubusercontent.com/111752059/190121601-1e7d7d58-5124-4811-a785-e68e1ebf5cc1.png)
   
 <h4 align="center">Local stock for sales team in the UK and Ireland, creating daily reports that saw 14% increase in sales on a weekly basis</h4>
 
-> ![E Stock List](https://user-images.githubusercontent.com/111752059/189686626-f3d1594f-6c9a-45e0-83a3-8fbde878f56e.png)
+> ![E Stock List](https://user-images.githubusercontent.com/111752059/190121653-f7d43290-58fc-403f-8171-15ceb09b65f6.png)
 
 </details>
 
@@ -48,11 +48,11 @@ __________________________________________________
 __________________________________________________
 <h4 align="center"> Open order fill that's analysed to provide the logistics team to successfully manage 100,000+ products from the warehouse </h4>
   
-> ![Open Order](https://user-images.githubusercontent.com/111752059/189697296-ff9f2c53-f19b-4bd7-b3b1-71eb54e80b82.png)
+> ![Open Order](https://user-images.githubusercontent.com/111752059/190121578-f6512eb0-0934-48e5-99a4-7911cfdf8edb.png)
   
 <h4 align="center"> Supporting E-commerce team on securing stock allocated and available into web reserve </h4>
   
-> ![E-commerce product](https://user-images.githubusercontent.com/111752059/189702583-37abc5ab-490b-4813-bdfc-af9b7a5b87b7.png)
+> ![E-commerce product](https://user-images.githubusercontent.com/111752059/190121594-811cbe9c-4bc8-4b36-bf66-90e4eb5db6ed.png)
 
 </details>
 
@@ -77,6 +77,7 @@ ___________
 <details>
   <summary>Drop Down List: </summary> 
 <br>
+
 - Detail-oriented, at Ocean Holidays I’d critically check 200+ bookings weekly to ensure that data transmittals received from our partners matched what was booked in our internal systems, successfully leading to the team hitting our -2.00% error target.
 - At MyTutor, I'd implement data analysis techniques to look at trends and queries from consumers to demonstrate areas of improvement on the platform. This resulted in being able to reduce customer query contact by 28% and focus on building on other aspects of the business.
 - Main support for account manager for our VIP products such as the prestigious Sandy Lane hotel, helped our 20+ VIP trade partners secure bookings, seeing  a 51% increase in bookings, resulting in £30,000 increase in revenue.
