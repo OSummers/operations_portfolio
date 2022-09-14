@@ -14,11 +14,11 @@ One of my achievements at Ocean Holidays, where I’ve taken ownership to improv
 __________________________________________________
 <h4 align="center">Drafting of FAQ page on word/pdf, with feedback from management</h4>
 
-![](images/FAQ%20Draft.png)
+![FAQ Draft](https://user-images.githubusercontent.com/111752059/190139680-d171ab7c-55a8-4d7e-9f5f-b4960865b47e.png)
 
 <h4 align="center">Final version, as found on the official website</h4>
 
-> ![FAQ Finalised](https://user-images.githubusercontent.com/111752059/190121610-5d3e3003-bd95-4e99-a3e2-5c506be3ece4.png)
+![FAQ Finalised](https://user-images.githubusercontent.com/111752059/190139688-e950c870-f1da-439e-8cbf-c93f099e09a9.png)
 
 </details>
 
@@ -30,11 +30,11 @@ Able to manage own workload effectively. For example, at Fender, I’d provide w
 __________________________________________________
 <h4 align="center">B stock list to boost revenue to global partners to 45+ countries across Europe, Middle East and Africa</h4>
   
-> ![B Stock List](https://user-images.githubusercontent.com/111752059/190121601-1e7d7d58-5124-4811-a785-e68e1ebf5cc1.png)
+![B Stock List](https://user-images.githubusercontent.com/111752059/190139704-b4ba5f24-4152-456b-8268-1a1bb55e255f.png)
   
 <h4 align="center">Local stock for sales team in the UK and Ireland, creating daily reports that saw 14% increase in sales on a weekly basis</h4>
 
-> ![E Stock List](https://user-images.githubusercontent.com/111752059/190121653-f7d43290-58fc-403f-8171-15ceb09b65f6.png)
+![E Stock List](https://user-images.githubusercontent.com/111752059/190139666-62bbb318-b3b9-4602-b55e-6cd5cd4e0066.png)
 
 </details>
 
@@ -49,11 +49,11 @@ Highly efficient in using Google Suite/Microsoft Office. At Fender, I use Excel 
 __________________________________________________
 <h4 align="center"> Open order fill that's analysed to provide the logistics team to successfully manage 100,000+ products from the warehouse </h4>
   
-> ![Open Order](https://user-images.githubusercontent.com/111752059/190121578-f6512eb0-0934-48e5-99a4-7911cfdf8edb.png)
+![Open Order](https://user-images.githubusercontent.com/111752059/190139717-5d5a2afd-91cf-4563-bbac-52499b4a2298.png)
   
 <h4 align="center"> Supporting E-commerce team on securing stock allocated and available into web reserve </h4>
   
-> ![E-commerce product](https://user-images.githubusercontent.com/111752059/190121594-811cbe9c-4bc8-4b36-bf66-90e4eb5db6ed.png)
+![E-commerce product](https://user-images.githubusercontent.com/111752059/190139710-81b309ae-4770-43e5-9cfa-7b572fc56499.png)
 
 </details>
 
@@ -82,3 +82,11 @@ ___________
 - I was the first team member to set up our product section for the B2C team at MyTutor, **resulting in an overall 60% increase** in accurate data for bug reports into JIRA.
 - Led creative workshops at MyTutor **for 20+ staff**, delivering to the team to educate B2C strategies.
 - Trained and qualified in GDPR practises **with 90%+ overall rating**, highlighting key elements to protect private stakeholder data.
+
+
+![E Stock List](https://user-images.githubusercontent.com/111752059/190139666-62bbb318-b3b9-4602-b55e-6cd5cd4e0066.png)
+![FAQ Draft](https://user-images.githubusercontent.com/111752059/190139680-d171ab7c-55a8-4d7e-9f5f-b4960865b47e.png)
+![FAQ Finalised](https://user-images.githubusercontent.com/111752059/190139688-e950c870-f1da-439e-8cbf-c93f099e09a9.png)
+![B Stock List](https://user-images.githubusercontent.com/111752059/190139704-b4ba5f24-4152-456b-8268-1a1bb55e255f.png)
+![E-commerce product](https://user-images.githubusercontent.com/111752059/190139710-81b309ae-4770-43e5-9cfa-7b572fc56499.png)
+![Open Order](https://user-images.githubusercontent.com/111752059/190139717-5d5a2afd-91cf-4563-bbac-52499b4a2298.png)
