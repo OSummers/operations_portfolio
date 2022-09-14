@@ -75,6 +75,8 @@ Thank you for looking into my application. It would be great to support you with
 - test
 - test
 
+</details>
+
 
 Oliver Summers (BMus, PGCE)
 
