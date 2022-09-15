@@ -119,3 +119,23 @@ ___________
 - Trained and qualified in GDPR practises **with 90%+ overall rating**, highlighting key elements to protect private stakeholder data.
 
 </details>
+
+**APPLICATIONS USED**
+
+<details markdown="1">
+<summary>Drop down list:</summary>
+<br>
+
+- Microsoft Office (especially Excel)
+- Google Suite
+- SQL
+- Tableau
+- R/Python
+- JIRA 
+- Extranet and API systems
+- GDS (Galileo, TD-i, AC7)
+- Internal systems (TravelWeb, NED, AS/400, PIM)
+- CRM systems (Zendesk, HubSpot, internal)
+
+</details>
+
