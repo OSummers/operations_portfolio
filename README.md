@@ -27,7 +27,7 @@ __________________________________________________
   <summary>2) Daily sales reporting and data entry to the sales teams across EMEA departments of 200+ internal stakeholders, overseeing E & B Stock list </summary>
 <br>
 
-Able to manage own workload effectively. For example, at Fender, I’d provide weekly reports to commercial and operations teams across EMEA departments, such as open order fills and B stock lists of our products, resulting in meeting our 1,000+ weekly orders for dealers and direct consumers.
+Able to manage own workload effectively and meet deadlines. For example, at Fender, I’d provide weekly reports to commercial and operations teams across EMEA departments that are time sensitive, such as open order fills and B stock lists including full range of our products, resulting in meeting our 1,000+ weekly orders for dealers and direct consumers. This is critical to ensure internal stakeholders and clients have the necessary product info to predict purchases and stock management.
 
 __________________________________________________
 <h4 align="center">B stock list to boost revenue to global partners to 45+ countries across Europe, Middle East and Africa</h4>
@@ -47,10 +47,10 @@ __________________________________________________
 Analysed data from supply chain and E-commerce teams, successfully delivering tasks in a timely manner and to a high standard. Able to manage own workload effectively. For example, at Fender, I’d provide weekly reports to commercial and operations teams across EMEA departments, such as open order fills and B stock lists of our products, resulting in meeting our 1,000+ weekly orders for dealers and direct consumers.
 <br>
 
-Highly efficient in using Google Suite/Microsoft Office. At Fender, I use Excel to deliver reports to help track and process products, using VLOOKUP, COUNTIF, and Pivot Table Analysis to retrieve results from our internal system to help plan with order forecasts.
+Highly efficient in using Google Suite/Microsoft Office. At Fender, I use Excel to deliver reports to help track and process products, using VLOOKUP, COUNTIF, Pivot Table Analysis and more to retrieve results from our internal system to help plan with order forecasts.
 
 __________________________________________________
-<h4 align="center"> Open order fill that's analysed to provide the logistics team to successfully manage 100,000+ products from the warehouse </h4>
+<h4 align="center"> Open order fill that's analysed to provide the logistics team to successfully manage 200,000+ products from the warehouse </h4>
   
 ![Open Order](https://user-images.githubusercontent.com/111752059/190139717-5d5a2afd-91cf-4563-bbac-52499b4a2298.png)
   
