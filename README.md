@@ -120,6 +120,7 @@ ___________
 
 </details>
 
+
 **APPLICATIONS USED**
 
 <details markdown="1">
