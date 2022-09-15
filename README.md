@@ -1,4 +1,5 @@
 <h5 align="left">Oliver Summers (BMus, PGCE)</h5>
+<br>
 
 <h1 align="center">Operations Portfolio</h1>
 
@@ -62,15 +63,45 @@ __________________________________________________
 __________________________________________________
 <h2 align="center">About Me (and what I can bring to your team)</h2>
 
-Proactive operations specialist, with 4+ years experience in an operations environment, I have undertaken many projects (as listed in this portfolio but not exhaustive) that's resulted in seeing continued support across businesses, for example, one of many results was seeing a growth rate of 30% over the past five years, surpassing £60 million revenue for the business at Ocean Holidays.
+<details markdown="1">
 
-By introducing me to be a part of your team, I can further develop processes while supporting a wide array of teams on an international level, having previously worked alongside Product, E-commerce, Finance, Sales, Marketing, Supply Chain & Logistics, and many more.
+<summary>Who are you?</summary> 
+<br>
 
-To highlight positive feedback from colleagues, my general manager at MyTutor has described me as *"Process-driven"*, along with my manager at Ocean Holidays praising my communications skills across different teams, stating that,
+Proactive operations specialist, with 4+ years experience in an operations environment and a natural desire to improve processes while implementing applications to support these improvements. I have undertaken many projects (as listed in this portfolio but not exhaustive) that's resulted in seeing continued support across businesses, for example, one of many results was seeing a growth rate of 30% over the past five years, surpassing £60 million revenue for the business at Ocean Holidays.
+
+</details>
+
+<details markdown="1">
+<summary>Why do you do what you do?</summary>
+<br>
+
+From teaching and delivering effective teaching materials, to working with multi-million pound businesses to improve operational processes, I've always had a keen eye to develop and improve and deliver on what teams need, Working efficiently in operations allows me to be directly involved in delivering the final product to consumers.
+
+</details>
+
+<details markdown="1">
+<summary>What accomplishments have you made?</summary>
+<br>
+
+You can see a bullet point list below further for examples (list is not exhaustive) but to highlight positive feedback from colleagues, my general manager at MyTutor has described me as *"Process-driven"*, along with my manager at Ocean Holidays praising my communications skills across different teams, stating that,
+<br>
 
 > *"You are smashing it, some really good calls, you have clearly picked up lots of product knowledge and trying to answer the agents call without letting them go.”*
 
-Thank you so much for looking into my application further. It would be great to support you with your operations requirements, and I'd love to further discuss how my previous successes highlighted here can support you in achieving your business goals. You can find contact details on my CV and looking forward to hearing from you!
+</details>
+
+<details markdown="1">
+<summary>What are you looking for?</summary>
+<br>
+
+I'm looking to be a part of a team that is looking to improve and streamline processes, build new and better ways of approaching tasks (as already highlighted). By introducing me to be a part of your team, I can quickly delve into this while supporting a wide array of teams on an international level, having previously worked alongside Product, E-commerce, Finance, Sales, Marketing, Supply Chain & Logistics, and many more.
+<br>
+<br>
+
+Thank you so much for looking into my application further. It would be great to support you with your operations requirements, and I'd love to further discuss how some of my previous successes highlighted here can support you in achieving your business goals. You can find contact details on my CV and looking forward to speaking with you!
+
+</details>
 
 ___________
 
