@@ -81,7 +81,7 @@ From teaching and delivering effective teaching materials, to working with multi
 </details>
 
 <details markdown="1">
-<summary>What accomplishments have you made?</summary>
+<summary>What accomplishments have you achieved?</summary>
 <br>
 
 You can see a bullet point list below further for examples (list is not exhaustive) but to highlight positive feedback from colleagues, my general manager at MyTutor has described me as *"Process-driven"*, along with my manager at Ocean Holidays praising my communications skills across different teams, stating that,
