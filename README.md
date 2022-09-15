@@ -68,7 +68,7 @@ __________________________________________________
 <summary>Who are you?</summary> 
 <br>
 
-Proactive operations specialist, with 4+ years experience in an operations environment and a natural desire to improve processes while implementing applications to support these improvements. I have undertaken many projects (as listed in this portfolio but not exhaustive) that's resulted in seeing continued support across businesses, for example, one of many results was seeing a growth rate of 30% over the past five years, surpassing £60 million revenue for the business at Ocean Holidays.
+Hi, I'm Oliver! Proactive operations specialist, with 4+ years experience in an operations environment and a natural desire to improve processes while implementing applications to support these improvements. I have undertaken many projects (as listed in this portfolio but not exhaustive) that's resulted in seeing continued support across businesses, for example, one of many results was seeing a growth rate of 30% over the past five years, surpassing £60 million revenue for the business at Ocean Holidays.
 
 </details>
 
@@ -76,7 +76,7 @@ Proactive operations specialist, with 4+ years experience in an operations envir
 <summary>Why do you do what you do?</summary>
 <br>
 
-From teaching and delivering effective teaching materials, to working with multi-million pound businesses to improve operational processes, I've always had a keen eye to develop and improve and deliver on what teams need, Working efficiently in operations allows me to be directly involved in delivering the final product to consumers.
+From teaching and delivering effective teaching materials, to working with multi-million pound businesses to improve operational processes, I've always had a keen eye to develop and improve and deliver on what teams need, Working efficiently in operations allows me to be directly involved in delivering the final product to consumers. I have strong interest in data and using systems to their advantage, having completed a UCL course in statistical programming in R to further develop my curiosity in this area.
 
 </details>
 
@@ -119,7 +119,7 @@ ___________
 - Trained and qualified in GDPR practises **with 90%+ overall rating**, highlighting key elements to protect private stakeholder data.
 
 </details>
-
+<br>
 
 **APPLICATIONS USED**
 
